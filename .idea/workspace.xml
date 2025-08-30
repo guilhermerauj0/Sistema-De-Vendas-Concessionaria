@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="Add class CarroNovo with methods, attributes, getters and setters">
-      <change afterPath="$PROJECT_DIR$/src/CarroUsado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="Add class CarroUsado with attributes and methods">
       <change beforePath="$PROJECT_DIR$/src/CarroNovo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarroNovo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756500567077</updated>
       <workItem from="1756500568207" duration="394000" />
-      <workItem from="1756512094829" duration="9130000" />
+      <workItem from="1756512094829" duration="9578000" />
     </task>
     <task id="LOCAL-00001" summary="Add Veiculo class">
       <option name="closed" value="true" />
@@ -127,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756520736355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactoring Class CarroNovo. Remove Getters and Setters">
+      <option name="closed" value="true" />
+      <created>1756523872496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756523872496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +142,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="131" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -148,6 +158,8 @@
     <MESSAGE value="Add Veiculo class" />
     <MESSAGE value="Getters and Setters methods for Class Veiculo" />
     <MESSAGE value="Add class CarroNovo with methods, attributes, getters and setters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class CarroNovo with methods, attributes, getters and setters" />
+    <MESSAGE value="Add class CarroUsado with attributes and methods" />
+    <MESSAGE value="Add class CarroUsado with attributes and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class CarroUsado with attributes and methods" />
   </component>
 </project>
