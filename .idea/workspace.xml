@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="Add class CarroUsado with attributes and methods">
+      <change beforePath="$PROJECT_DIR$/src/CarroNovo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarroNovo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,17 +39,21 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="31ye6d3SUGiHj2n2J0ZDB79h5Kd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,9 +61,26 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Guilherme/Documents/Semestre 2025.2/POO/SistemaDeVendasConcessionaria/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SistemaDeVendasConcessionaria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,8 +97,41 @@
       <option name="presentableId" value="Default" />
       <updated>1756500567077</updated>
       <workItem from="1756500568207" duration="394000" />
-      <workItem from="1756512094829" duration="2279000" />
+      <workItem from="1756512094829" duration="9578000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Veiculo class">
+      <option name="closed" value="true" />
+      <created>1756515764617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756515764617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Getters and Setters methods for Class Veiculo">
+      <option name="closed" value="true" />
+      <created>1756515943823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756515943823</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add class CarroNovo with methods, attributes, getters and setters">
+      <option name="closed" value="true" />
+      <created>1756520736355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756520736355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactoring Class CarroNovo. Remove Getters and Setters">
+      <option name="closed" value="true" />
+      <created>1756523872496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756523872496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,21 +142,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="131" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Veiculo class" />
+    <MESSAGE value="Getters and Setters methods for Class Veiculo" />
+    <MESSAGE value="Add class CarroNovo with methods, attributes, getters and setters" />
+    <MESSAGE value="Add class CarroUsado with attributes and methods" />
+    <MESSAGE value="Add class CarroUsado with attributes and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class CarroUsado with attributes and methods" />
   </component>
 </project>
