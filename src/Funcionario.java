@@ -2,7 +2,7 @@ public class Funcionario implements Vendedor {
 
     @Override
     public void vender(Veiculo veiculo) {
-        // TODO Implementar regra de negocio
+        //TODO Implementar lógica de venda
     }
 
     public double calcularComissao(double valorVenda){

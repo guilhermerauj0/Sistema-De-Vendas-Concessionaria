@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -97,7 +98,7 @@
       <updated>1756500567077</updated>
       <workItem from="1756500568207" duration="394000" />
       <workItem from="1756512094829" duration="9828000" />
-      <workItem from="1756585355174" duration="4175000" />
+      <workItem from="1756585355174" duration="4630000" />
     </task>
     <task id="LOCAL-00001" summary="Add Veiculo class">
       <option name="closed" value="true" />
