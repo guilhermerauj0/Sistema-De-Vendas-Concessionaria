@@ -1,4 +1,9 @@
-public class Funcionario {
+public class Funcionario implements Vendedor {
+
+    @Override
+    public void vender(Veiculo veiculo) {
+        // TODO Implementar regra de negocio
+    }
 
     public double calcularComissao(double valorVenda){
         return valorVenda * 0.05;

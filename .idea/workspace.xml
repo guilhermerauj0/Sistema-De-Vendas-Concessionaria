@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="Refactoring Class CarroNovo. Remove Getters and Setters">
-      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d6d17b4-16b5-4d1f-b85b-d49a30de12d3" name="Changes" comment="Refactoring Class CarroNovo. Remove Getters and Setters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <updated>1756500567077</updated>
       <workItem from="1756500568207" duration="394000" />
       <workItem from="1756512094829" duration="9828000" />
-      <workItem from="1756585355174" duration="3861000" />
+      <workItem from="1756585355174" duration="4175000" />
     </task>
     <task id="LOCAL-00001" summary="Add Veiculo class">
       <option name="closed" value="true" />
