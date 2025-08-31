@@ -4,6 +4,8 @@ public class Veiculo {
     int ano;
     double preco;
 
+    public void calcularPrecoFinal(){};
+
     public double getPreco() {
         return preco;
     }

@@ -5,6 +5,13 @@ public class CarroUsado extends Veiculo{
     private double precoDepreciado;
     private  double valorVenda;
 
+
+    // TODO Implementar regra de negocio
+    @Override
+    public void calcularPrecoFinal() {
+        super.calcularPrecoFinal();
+    }
+
     public CarroUsado(double valorVenda){
         this.valorVenda = valorVenda;
     }
