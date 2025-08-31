@@ -1,8 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Veiculo {
     String marca;
     String modelo;
     int ano;
     double preco;
+    List<Servico> historicoManutencao;
 
     public void calcularPrecoFinal(){};
 
@@ -31,5 +35,9 @@ public class Veiculo {
     }
     public void setAno(int ano) {
         this.ano = ano;
+    }
+
+    public List<Servico> getHistoricoManutencao() {
+        return historicoManutencao;
     }
 }
